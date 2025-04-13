@@ -1,4 +1,4 @@
-# ■ Retrieval-Augmented QA System
+# ■ Use-langchain-RAG
 - 한국어 위키백과 문서를 기반으로 질문에 대해 관련 문맥을 찾아내고, 해당 문맥에서 정형화된 단답형 응답을 생성하는 Retrieval-Augmented QA 시스템을 구축하는 것을 목표하며
   LangChain, Hugging Face Transformers, 그리고 Chroma 벡터스토어를 이용하여 아래와 같이 구성됩니다.
   <br>
