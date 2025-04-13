@@ -47,7 +47,6 @@
 ![image](https://github.com/user-attachments/assets/e7737f15-c2e7-4644-b50e-2c9a6387b0f7)
 ![image](https://github.com/user-attachments/assets/2c3d9931-2245-499b-84ff-988c69c8fa94)
 
-
 최종적으로 질문에 대한 문맥을 기반하여 정형화된 단답형 응답을 목표로 할 때, QA 전용 모델이 가장 좋은 결과를 보여준 것을 확인하였으며 
 생성형 모델들은 자유로운 텍스트 생성에는 유리하지만, 대부분의 모델이 영어 기반으로 학습되어 한글 문맥을 정확하게 가지고 와서 답변에 
 반영을 하지 못하는 한계를 확인하였습니다. 
