@@ -42,8 +42,6 @@
        QA에 특화되어 있어 문맥을 정확하게 추출하는 것으로 아래의 이미지를 통해 확인 가능했습니다. 
 
 ![image](https://github.com/user-attachments/assets/146bf89d-bd39-439b-bf70-71259cde7fb6)
-
-<br>
 ![image](https://github.com/user-attachments/assets/eb8cfd8e-6417-4dd6-b81b-8b5028399eda)
 ![image](https://github.com/user-attachments/assets/a87a5ef4-684e-48cf-8de7-a7ab7b439cd9)
 
