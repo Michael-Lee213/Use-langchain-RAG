@@ -13,7 +13,6 @@
  - 문서 크롤링 및 전처리 > 벡터스토어 구축 >  LLM 파이프라인 구성 > Retrieval QA 체인 구성 및 프롬프트 설계
 
 ![image](https://github.com/user-attachments/assets/0a317c6f-2ed5-454e-9f7c-c5c85bc1d598)
-
  <br>
 
  ## ■ 모델 장점 및 단점 
